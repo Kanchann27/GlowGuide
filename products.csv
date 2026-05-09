@@ -1,0 +1,117 @@
+Product,SkinType,Concern,AgeGroup,Category,Ingredient,Usage,Frequency
+
+Foaming Cleanser,oily,acne,Teen,Cleanser,Salicylic Acid,Morning/Night,Daily
+Niacinamide Serum,oily,acne,18-25,Serum,Niacinamide,Night,Daily
+Oil-Free Moisturizer,oily,acne,Teen,Moisturizer,Ceramides,Morning/Night,Daily
+Gel Sunscreen,oily,acne,All,Sunscreen,Zinc Oxide,Morning,Daily
+Clay Mask,oily,acne,18-25,Mask,Kaolin Clay,Weekly,2 times/week
+
+Tea Tree Face Wash,oily,pimples,Teen,Cleanser,Tea Tree,Morning/Night,Daily
+Acne Spot Gel,oily,pimples,Teen,Treatment,Benzoyl Peroxide,Night,Only on active pimples
+Oil Control Gel,oily,pimples,18-25,Moisturizer,Green Tea,Morning/Night,Daily
+SPF Matte Sunscreen,oily,pimples,All,Sunscreen,SPF 50,Morning,Daily
+Purifying Toner,oily,pimples,18-25,Toner,Tea Tree,Morning,Daily
+
+BHA Exfoliant,oily,blackheads,18-25,Exfoliant,Salicylic Acid,Night,2-3 times/week
+Pore Tightening Toner,oily,blackheads,18-25,Toner,Niacinamide,Morning,Daily
+Sebum Control Moisturizer,oily,blackheads,18-25,Moisturizer,Green Tea,Morning/Night,Daily
+Oil-Free SPF,oily,blackheads,All,Sunscreen,Zinc Oxide,Morning,Daily
+Charcoal Mask,oily,blackheads,18-25,Mask,Charcoal,Weekly,1-2 times/week
+
+Brightening Cleanser,oily,tan,18-25,Cleanser,Vitamin C,Morning/Night,Daily
+Vitamin C Serum,oily,tan,18-25,Serum,Vitamin C,Morning,Daily
+Light Gel Moisturizer,oily,tan,18-25,Moisturizer,Hyaluronic Acid,Morning/Night,Daily
+Brightening Sunscreen,oily,tan,All,Sunscreen,SPF 50,Morning,Daily
+Rice Enzyme Scrub,oily,tan,18-25,Exfoliant,Rice Enzyme,Night,1-2 times/week
+
+Hydrating Cleanser,dry,dullness,18-25,Cleanser,Glycerin,Morning/Night,Daily
+Hyaluronic Acid Serum,dry,dullness,18-25,Serum,Hyaluronic Acid,Morning/Night,Daily
+Ceramide Cream,dry,dullness,18-25,Moisturizer,Ceramides,Night,Daily
+Cream Sunscreen,dry,dullness,All,Sunscreen,SPF 50,Morning,Daily
+Overnight Sleeping Mask,dry,dullness,26-35,Mask,Squalane,Night,1-2 times/week
+
+Milk Cleanser,dry,sensitivity,Teen,Cleanser,Milk Protein,Morning/Night,Daily
+Hydration Serum,dry,sensitivity,18-25,Serum,Hyaluronic Acid,Morning,Daily
+Rich Moisturizer,dry,sensitivity,18-25,Moisturizer,Squalane,Night,Daily
+Gentle SPF,dry,sensitivity,All,Sunscreen,Zinc Oxide,Morning,Daily
+Oat Barrier Cream,dry,sensitivity,26-35,Barrier Cream,Oats,Night,Daily
+
+Retinol Serum,dry,aging,36-45,Serum,Retinol,Night,2 times/week
+Peptide Moisturizer,dry,aging,45+,Moisturizer,Peptides,Night,Daily
+Anti-Aging Cleanser,dry,aging,36-45,Cleanser,Peptides,Morning/Night,Daily
+Hydrating Sunscreen,dry,aging,All,Sunscreen,SPF 50,Morning,Daily
+Eye Cream,dry,aging,36-45,Eye Care,Caffeine,Night,Daily
+Collagen Mask,dry,aging,45+,Mask,Collagen,Weekly,1 time/week
+
+Rice Water Cleanser,dry,pigmentation,18-25,Cleanser,Rice Water,Morning/Night,Daily
+Tranexamic Serum,dry,pigmentation,26-35,Serum,Tranexamic Acid,Night,Alternate nights
+Brightening Cream,dry,pigmentation,26-35,Moisturizer,Alpha Arbutin,Night,Daily
+Glow Sunscreen,dry,pigmentation,All,Sunscreen,SPF 50,Morning,Daily
+Licorice Toner,dry,pigmentation,18-25,Toner,Licorice Extract,Morning,Daily
+
+Barrier Cleanser,sensitive,redness,Teen,Cleanser,Cica,Morning/Night,Daily
+Oatmeal Serum,sensitive,redness,18-25,Serum,Oats,Morning/Night,Daily
+Cica Repair Cream,sensitive,redness,26-35,Moisturizer,Centella,Night,Daily
+Mineral Sunscreen,sensitive,redness,All,Sunscreen,Zinc Oxide,Morning,Daily
+Cooling Gel,sensitive,redness,Teen,Treatment,Aloe Vera,Night,Daily
+
+Gentle Cleanser,sensitive,acne,Teen,Cleanser,Cica,Morning/Night,Daily
+Azelaic Acid Serum,sensitive,acne,18-25,Serum,Azelaic Acid,Night,Alternate nights
+Barrier Repair Cream,sensitive,acne,26-35,Moisturizer,Ceramides,Night,Daily
+Sensitive SPF,sensitive,acne,All,Sunscreen,Zinc Oxide,Morning,Daily
+Centella Toner,sensitive,acne,18-25,Toner,Centella,Morning,Daily
+
+Calming Face Wash,sensitive,barrier damage,18-25,Cleanser,Panthenol,Morning/Night,Daily
+Barrier Serum,sensitive,barrier damage,26-35,Serum,Ceramides,Night,Daily
+Repair Cream,sensitive,barrier damage,26-35,Moisturizer,Centella,Night,Daily
+Gentle Mineral SPF,sensitive,barrier damage,All,Sunscreen,Zinc Oxide,Morning,Daily
+Panthenol Mist,sensitive,barrier damage,All,Mist,Panthenol,Anytime,Daily
+
+Balancing Cleanser,combination,pigmentation,18-25,Cleanser,Green Tea,Morning/Night,Daily
+Kojic Acid Serum,combination,pigmentation,26-35,Serum,Kojic Acid,Night,Alternate nights
+Lightweight Moisturizer,combination,pigmentation,18-25,Moisturizer,Ceramides,Morning/Night,Daily
+SPF 50 Sunscreen,combination,pigmentation,All,Sunscreen,SPF 50,Morning,Daily
+Glow Toner,combination,pigmentation,18-25,Toner,Rice Extract,Morning,Daily
+
+Glow Cleanser,combination,tan,18-25,Cleanser,AHA,Morning/Night,Daily
+Glow Serum,combination,tan,18-25,Serum,Vitamin C,Morning,Daily
+Gel Cream,combination,tan,18-25,Moisturizer,Hyaluronic Acid,Night,Daily
+Bright SPF,combination,tan,All,Sunscreen,SPF 50,Morning,Daily
+Fruit Enzyme Mask,combination,tan,26-35,Mask,Fruit Enzymes,Weekly,1-2 times/week
+
+Balancing Face Wash,combination,dullness,18-25,Cleanser,Green Tea,Morning/Night,Daily
+Radiance Serum,combination,dullness,18-25,Serum,Niacinamide,Morning,Daily
+Water Cream,combination,dullness,18-25,Moisturizer,Hyaluronic Acid,Night,Daily
+Daily Sunscreen,combination,dullness,All,Sunscreen,SPF 50,Morning,Daily
+Glow Pads,combination,dullness,26-35,Exfoliant,Lactic Acid,Night,2 times/week
+
+Charcoal Cleanser,oily,large pores,18-25,Cleanser,Charcoal,Morning/Night,Daily
+Pore Refining Serum,oily,large pores,18-25,Serum,Niacinamide,Night,Daily
+Light Gel Cream,oily,large pores,18-25,Moisturizer,Green Tea,Morning/Night,Daily
+Oil Control Sunscreen,oily,large pores,All,Sunscreen,SPF 50,Morning,Daily
+Pore Clay Mask,oily,large pores,26-35,Mask,Kaolin Clay,Weekly,1 time/week
+
+Caffeine Eye Cream,dry,dark circles,18-25,Eye Care,Caffeine,Night,Daily
+Under Eye Gel,sensitive,dark circles,18-25,Eye Care,Peptides,Night,Daily
+Cooling Eye Patches,combination,dark circles,18-25,Eye Care,Caffeine,Morning,Daily
+Bright Eye Cream,oily,dark circles,26-35,Eye Care,Vitamin K,Night,Daily
+
+Hydration Essence,dry,dehydration,18-25,Essence,Hyaluronic Acid,Morning/Night,Daily
+Moisture Lock Cream,dry,dehydration,26-35,Moisturizer,Squalane,Night,Daily
+Dewy Skin Mist,combination,dehydration,18-25,Mist,Glycerin,Anytime,Daily
+Hydra Gel,oily,dehydration,18-25,Gel,Hyaluronic Acid,Morning/Night,Daily
+
+Texture Refining Serum,combination,texture,26-35,Serum,Lactic Acid,Night,2 times/week
+AHA Peel,combination,texture,26-35,Exfoliant,Glycolic Acid,Night,1 time/week
+Smooth Skin Cream,dry,texture,26-35,Moisturizer,Urea,Night,Daily
+Micro Exfoliating Wash,oily,texture,18-25,Cleanser,Salicylic Acid,Night,2 times/week
+
+Spot Corrector,oily,dark spots,26-35,Treatment,Tranexamic Acid,Night,Daily
+Dark Spot Serum,dry,dark spots,26-35,Serum,Alpha Arbutin,Night,Daily
+Pigment Control Cream,combination,dark spots,26-35,Moisturizer,Kojic Acid,Night,Daily
+Glow Booster,sensitive,dark spots,18-25,Serum,Niacinamide,Night,Alternate nights
+
+Fine Line Serum,dry,fine lines,36-45,Serum,Retinol,Night,2 times/week
+Firming Cream,dry,fine lines,45+,Moisturizer,Peptides,Night,Daily
+Youth Sunscreen,combination,fine lines,All,Sunscreen,SPF 50,Morning,Daily
+Wrinkle Repair Serum,sensitive,fine lines,36-45,Serum,Bakuchiol,Night,Alternate nights
