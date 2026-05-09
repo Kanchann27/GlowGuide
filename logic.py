@@ -29,7 +29,7 @@ def get_routine(skin_type, concern, age_group):
     ]
 
     if filtered.empty:
-        return "⚠ No skincare routine found for this combination."
+        return "⚠ No skincare routine found for this skin type and concern."
 
     routine = "\n========== YOUR SKINCARE ROUTINE ==========\n"
 
