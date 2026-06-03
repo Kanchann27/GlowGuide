@@ -1,6 +1,6 @@
 from logic import get_routine
 
-print("✨ Welcome to GlowGuide AI ✨")
+print("✨ Welcome to GlowGuide ✨")
 print("Personalized Skin Care Routine Generator\n")
 
 skin_type = input("Enter your skin type: ")
