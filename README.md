@@ -1,4 +1,4 @@
-# GlowGuide AI
+# GlowGuide 
 
 GlowGuide AI is a Python-based skincare recommendation system that generates personalized skincare routines using pandas and a CSV dataset based on skin type, concern, and age.
 
